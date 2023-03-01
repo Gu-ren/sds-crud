@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sds-crud/static/css/main.756af292.css",
+    "main.js": "/sds-crud/static/js/main.d02069c3.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/sds-crud/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/sds-crud/index.html",
+    "main.756af292.css.map": "/sds-crud/static/css/main.756af292.css.map",
+    "main.d02069c3.js.map": "/sds-crud/static/js/main.d02069c3.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/sds-crud/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.d02069c3.js"
+  ]
+}
